@@ -1,0 +1,15 @@
+{
+  "fps": 24,
+  "duration": 2.0,
+  "tracks": {
+    "drip.melt": [
+      {"t": 0.0, "v": 0.0},
+      {"t": 1.6, "v": 1.0, "easing": "ease_in_out"},
+      {"t": 2.0, "v": 1.0}
+    ],
+    "drip.wobble": [
+      {"t": 0.0, "v": 1.0},
+      {"t": 2.0, "v": 7.0, "easing": "ease_in"}
+    ]
+  }
+}
