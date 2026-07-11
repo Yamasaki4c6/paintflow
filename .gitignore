@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+
+# PyInstaller出力
+dist/
+build/
+*.spec
+
+# テスト・一時ファイル
+_export_test/
+_screenshot*.png
+_regress*.png
+renders/
+renders_cli/
+
+# 大きな生成物
+*.gif

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # paintflow
 
 ## ★ GUI版 (Paintflow Studio) ができました
@@ -173,3 +174,6 @@ paintflow/
     ├── 02_animate_drip.py  # タイムライン駆動アニメ
     └── 03_custom_stage.py  # 自作ステージ/イージング/3DCG合成雛形
 ```
+=======
+# paintflow
+>>>>>>> 08fb802a92d055114ab5a7dfa4d09027b61f8cce
